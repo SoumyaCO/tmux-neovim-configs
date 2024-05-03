@@ -12,5 +12,5 @@ I'm using `catppuccin` theme (config2)
 
 2. NeoVim Config 
 Here I'm using some customized neovim config, made by some extremely talented person. (in github)
-**To get this style** copy `nvim` directory and paste it inside your `.config/` directory. (latest Neovim required)
+**To get this style** go to this [repository](https://github.com/emxxjnm/nvim.git) and follow all the steps. 
 ![Neovim Config](./Screenshots/neovim-config.png)
